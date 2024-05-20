@@ -1,7 +1,7 @@
 # fanapcampus-elastikibana
 This document describes how to deploy a single-node Elastic Stack (Elasticsearch and Kibana) using Docker Compose.
 
-**Requirements:**
+## Requirements:
 
 * Docker installed and running
 
